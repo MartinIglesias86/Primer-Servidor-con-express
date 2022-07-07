@@ -2,7 +2,7 @@
 <p align="center" style="font-size:20px">🖥 Primer servidor realizado con: Node.js y Express.js</p><br /> 
 <div align="center"><a href="https://nodejs.org/" target="blank"><img align="center" src="https://nodejs.org/static/images/logo.svg" alt="Node.js Logo" height="50" width="90" /></a>&nbsp;&nbsp; +&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;<a href="https://expressjs.com/" target="blank"><img align="center" src="https://expressjs.com/images/favicon.png" alt="Express.js Logo"  /></a>
 </div><br /> <br />
-<p align="center" style="font-size:20px">💻 El servidor se encuentra live en <a href="https://expressjs-server.glitch.me/">Glitch</a> 💻</p>
+<p align="center" style="font-size:20px">💻 El servidor se encuentra live en <a href="https://expressjs-server.glitch.me/" target="blank">Glitch</a> 💻</p>
 
 <h1 align="center"></h1>
 
